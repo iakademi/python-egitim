@@ -1,0 +1,21 @@
+siparis_id,tarih,sehir,kategori,urun,adet,birim_fiyat
+1001,2026-01-05,İstanbul,Yazılım,Python Kitabı,3,250.00
+1002,2026-01-07,Ankara,Donanım,Klavye,2,780.50
+1003,2026-01-12,İzmir,Yazılım,SQL Kitabı,1,310.00
+1004,2026-01-15,İstanbul,Donanım,Monitör,1,4200.00
+1005,2026-01-20,Bursa,Aksesuar,Mouse Pad,5,95.00
+1006,2026-02-02,Ankara,Yazılım,Python Kitabı,2,250.00
+1007,2026-02-08,İstanbul,Donanım,Kulaklık,4,640.00
+1008,2026-02-14,İzmir,Aksesuar,Webcam,2,890.00
+1009,2026-02-19,İstanbul,Yazılım,C# Kitabı,3,295.00
+1010,2026-02-25,Bursa,Donanım,Klavye,1,780.50
+1011,2026-03-03,Ankara,Aksesuar,Mouse Pad,10,95.00
+1012,2026-03-09,İstanbul,Donanım,Monitör,2,4200.00
+1013,2026-03-15,İzmir,Yazılım,C# Kitabı,2,295.00
+1014,2026-03-21,Ankara,Donanım,Kulaklık,1,640.00
+1015,2026-03-28,İstanbul,Aksesuar,Webcam,3,890.00
+1016,2026-04-04,Bursa,Yazılım,SQL Kitabı,4,310.00
+1017,2026-04-11,İstanbul,Yazılım,Python Kitabı,5,250.00
+1018,2026-04-18,İzmir,Donanım,Klavye,3,780.50
+1019,2026-04-24,Ankara,Aksesuar,Webcam,1,890.00
+1020,2026-04-30,İstanbul,Donanım,Kulaklık,2,640.00

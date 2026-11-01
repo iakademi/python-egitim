@@ -1,0 +1,3 @@
+# 06-veri-analizi-pandas modülü için gerekli paketler
+# Diğer modüller yalnızca Python standart kütüphanesini kullanır.
+pandas>=2.0
